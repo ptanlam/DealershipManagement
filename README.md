@@ -1,4 +1,4 @@
-# Sophomore project
+# Junior project
 
 ## Dealership Management (MVC Architecture)
 
