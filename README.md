@@ -1,3 +1,5 @@
 # Sophomore project
 
-## Dealership Management
+## Dealership Management (MVC Architecture)
+
+### Using Django framework as backend
